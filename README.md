@@ -4,7 +4,7 @@ Renesas 机器马 AI 导师是一套面向瑞萨 RA4M2 嵌入式开发与机器�
 
 即使暂时没有开发板、机器马或焊接条件，学习者也可以先通过课程、知识卡片和仿真功能理解程序逻辑，观察机器马动作并验证设计思路，之后再连接真实设备进行测试。
 
-安装包可在 [Releases 最新版本页面](https://github.com/WzhhhhhhzW/Renesas-Horse-AI-Tutor-Releases/releases/latest)下载
+安装包可在 右侧[Releases 最新版本页面](https://github.com/WzhhhhhhzW/Renesas-Horse-AI-Tutor-Releases/releases/latest)下载
 
 ## 项目特点
 
