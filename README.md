@@ -4,7 +4,7 @@ Renesas 机器马 AI 导师是一套面向瑞萨 RA4M2 嵌入式开发与机器�
 
 即使暂时没有开发板、机器马或焊接条件，学习者也可以先通过课程、知识卡片和仿真功能理解程序逻辑，观察机器马动作并验证设计思路，之后再连接真实设备进行测试。
 
-安装包可在右侧Releases菜单中下载
+安装包可在 [Releases 最新版本页面](https://github.com/WzhhhhhhzW/Renesas-Horse-AI-Tutor-Releases/releases/latest)下载
 
 ## 项目特点
 
@@ -82,9 +82,9 @@ AI 导师的目标不是简单给出答案，而是帮助学习者理解问题�
 
 ## 下载安装
 
-请前往本仓库的 **Releases** 页面下载最新版本安装包：
+请前往本仓库的 [**Releases 最新版本页面**](https://github.com/WzhhhhhhzW/Renesas-Horse-AI-Tutor-Releases/releases/latest)，在 **Assets** 中下载安装包。当前版本安装包为：
 
-`RenesasHorseTutor_Setup_V版本号.exe`
+[`RenesasHorseTutor_Setup_V16.21.exe`](https://github.com/WzhhhhhhzW/Renesas-Horse-AI-Tutor-Releases/releases/download/Version_v16.21/RenesasHorseTutor_Setup_V16.21.exe)
 
 下载完成后运行安装程序，并按照安装向导完成安装。建议优先使用标记为 **Latest** 的正式版本。
 
@@ -100,11 +100,11 @@ AI 导师的目标不是简单给出答案，而是帮助学习者理解问题�
 
 ## 当前版本
 
-当前最新版本：**V16.18**
+当前最新版本：**V16.21**
 
 该版本已从基础的工程打开、代码编辑、AI 问答、编译和烧录工具，扩展为集 AI 编程辅助、课程学习、知识卡片、3D 物理仿真、虚拟蓝牙控制、OLED 制作、串口调试和离线资料于一体的机器马学习平台。
 
-具体更新内容请查看对应版本的 Release 说明。
+具体更新内容请查看 [V16.21 Release 说明](https://github.com/WzhhhhhhzW/Renesas-Horse-AI-Tutor-Releases/releases/tag/Version_v16.21)。
 
 ## 使用反馈
 
